@@ -1,7 +1,7 @@
 # dæs däêmar
 * ¿waz|§|job?
 * quantum computers could be both
-* probability matrix
+* game of life with a probability matrix
 * the last starfighter
   * but more like a dungeon or gauntlet
     
