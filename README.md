@@ -4,4 +4,4 @@
 * game of life with a probability matrix
 * the last starfighter
   * but more like a dungeon or gauntlet
-    
+* ~positronic~ neuronic brain
